@@ -26,5 +26,5 @@ describe('AppComponent', () => {
     expect(app.title).toEqual('my-app');
   });
 
-  
+
 });
